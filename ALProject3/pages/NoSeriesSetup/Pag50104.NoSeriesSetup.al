@@ -1,11 +1,11 @@
 page 50104 "No. Series Setup"
 {
-    Caption = 'No. Series Setup (nagy házi)';
+    Caption = 'No. Series Setup';
     PageType = Card;
     SourceTable = "No. Series Setup";
     UsageCategory = Administration;
     ApplicationArea = All;
-    
+
     layout
     {
         area(content)
